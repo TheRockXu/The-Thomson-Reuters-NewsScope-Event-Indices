@@ -1,5 +1,5 @@
 # The-Thomson-Reuters-NewsScope-Event-Indices
-Notes and Implementation of - Managing real-time risks and returns: The Thomson Reuters NewsScope Event Indices
+Notes and Implementation of - [Managing real-time risks and returns: The Thomson Reuters NewsScope Event Indices](https://github.com/TheRockXu/The-Thomson-Reuters-NewsScope-Event-Indices/blob/master/Managing-Real-Time-Risks-and-Returns.pdf)
 
 ## Purpose
 > Manage event risk, which is posed by unanticipated news that causes major market moves over short time interval.
