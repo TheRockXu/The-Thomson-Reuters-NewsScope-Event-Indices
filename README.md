@@ -7,7 +7,7 @@ Notes and Implementation of - Managing real-time risks and returns: The Thomson 
 ## The Framework for Real-time News Analytics
 > The core of the real-time news analysis engine relied on a scoring method that assesses the relative volume/significance of news from a specific category of news.
 
-> In this notebook, I analyze log returns of several ETFs when there is a shift of sentimet measured by zscore over 60 day rolling dat.
+> In this notebook, I analyze log returns of several ETFs when there is a shift of sentimet measured by zscore over 60 day rolling data.
 
 ## Files
 1. `tones.csv` contains sentiment data of of several indices that are analyzed through few thousands news articles since 2017. Each score of "tone" is measured by average sentiment of artiles where related keyworkds appeared in. 
