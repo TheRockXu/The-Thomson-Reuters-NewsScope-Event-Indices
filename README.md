@@ -9,6 +9,14 @@ Notes and Implementation of - Managing real-time risks and returns: The Thomson 
 
 > In this notebook, I analyze log returns of several ETFs when there is a shift of sentimet measured by zscore over 60 day rolling data.
 
+## Event Index
+
+> I extracted the following indices of news -
+> `['BANKRUPTCY', 'CENTRALBANK', 'DEBT', 'DEFLATION', 'DEREGULATION',
+       'EARNINGSREPORT', 'GOLDPRICE', 'HOUSING_PRICES', 'INFLATION',
+       'INTEREST_RATES', 'IPO', 'MIDDLECLASS', 'OILPRICE', 'STOCKMARKET',
+       'TRADE_DISPUTE']`
+
 ## Files
 1. `tones.csv` contains sentiment data of of several indices that are analyzed through few thousands news articles since 2017. Each score of "tone" is measured by average sentiment of artiles where related keyworkds appeared in. 
 2. `etf_data.csv` contains stock data downloaded from Yahoo Finance.
